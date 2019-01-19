@@ -7,6 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello my World!");
+            Console.WriteLine("Hello my World (part 2)!");
 
             var r = Sum(1m, 2m);
             var b = Mult(2m, 5m);
